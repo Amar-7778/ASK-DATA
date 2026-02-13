@@ -1,8 +1,8 @@
-# 📊 Autonomous BI Suite Pro v2.1 - Universal Edition
+# 📊 Autonomous BI Suite Pro - Universal Edition
 
 An executive-ready business intelligence dashboard that works with **ANY dataset type** - sales, sports, HR, and more!
 
-## 🌟 NEW in v2.1 - Universal Dataset Support!
+## 🌟 NEW  - Universal Dataset Support!
 
 ### 🎨 **Customizable Colors**
 - Choose your own color theme with color pickers
